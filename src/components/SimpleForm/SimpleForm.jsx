@@ -15,7 +15,7 @@ console.log('form submit')
                 <input type="text" name="name" placeholder="Name"/>
                 <br/>
                 <input type="text" name="email" placeholder="Email"/>
-                <input type="text" name="phone" placeholder="Phone"/>
+                <input type="text" name="password" placeholder="password"/>
                 <br/>
                 <input type="submit" value="Submit" />
             </form>
