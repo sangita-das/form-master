@@ -2,6 +2,7 @@
 
 import './App.css'
 import Grandpa from './components/Grandpa/Grandpa'
+import Map from './components/Map/Map'
 // import HookForm from './components/HookForm/HookForm'
 import ReusableForm from './components/ReusableForm/ReusableForm'
 
@@ -53,6 +54,7 @@ function App() {
         <p>Always keep your profile updated</p>
       </div>
       </ReusableForm>
+      <Map></Map>
     </>
   )
 }
